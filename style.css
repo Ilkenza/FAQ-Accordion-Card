@@ -75,7 +75,7 @@ main > *{
 .faq.active .arrow{
     transform: rotate(180deg);
 }
-.arrow {
+.arrow { 
     transition:600ms all;
   }
 .faq.active .faq-body{
